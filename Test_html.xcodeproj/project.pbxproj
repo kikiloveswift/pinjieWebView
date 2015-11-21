@@ -15,6 +15,7 @@
 		8F1E32C31C00BACC00B061A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F1E32C11C00BACC00B061A1 /* LaunchScreen.storyboard */; };
 		8F1E32CE1C00BACC00B061A1 /* Test_htmlTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1E32CD1C00BACC00B061A1 /* Test_htmlTests.m */; };
 		8F1E32D91C00BACC00B061A1 /* Test_htmlUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1E32D81C00BACC00B061A1 /* Test_htmlUITests.m */; };
+		8F1E32EE1C00C1BA00B061A1 /* YLView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F1E32ED1C00C1BA00B061A1 /* YLView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		8F1E32D41C00BACC00B061A1 /* Test_htmlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test_htmlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F1E32D81C00BACC00B061A1 /* Test_htmlUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Test_htmlUITests.m; sourceTree = "<group>"; };
 		8F1E32DA1C00BACC00B061A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F1E32EC1C00C1BA00B061A1 /* YLView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YLView.h; sourceTree = "<group>"; };
+		8F1E32ED1C00C1BA00B061A1 /* YLView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YLView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				8F1E32B71C00BACC00B061A1 /* AppDelegate.m */,
 				8F1E32B91C00BACC00B061A1 /* ViewController.h */,
 				8F1E32BA1C00BACC00B061A1 /* ViewController.m */,
+				8F1E32EC1C00C1BA00B061A1 /* YLView.h */,
+				8F1E32ED1C00C1BA00B061A1 /* YLView.m */,
 				8F1E32BC1C00BACC00B061A1 /* Main.storyboard */,
 				8F1E32BF1C00BACC00B061A1 /* Assets.xcassets */,
 				8F1E32C11C00BACC00B061A1 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				8F1E32BB1C00BACC00B061A1 /* ViewController.m in Sources */,
 				8F1E32B81C00BACC00B061A1 /* AppDelegate.m in Sources */,
 				8F1E32B51C00BACC00B061A1 /* main.m in Sources */,
+				8F1E32EE1C00C1BA00B061A1 /* YLView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
